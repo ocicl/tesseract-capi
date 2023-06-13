@@ -1,0 +1,10 @@
+* tesseract-capi
+
+Low level Tesseract C API wrapper for versions 3.05.02, 4.1.1 and 5.0.0
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/egao1980/tesseract-capi.git   |
+| commit  | 36ee8ae  |
+| systems | tesseract-capi |
+|---------+-------------------------------------------|
+
