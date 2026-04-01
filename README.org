@@ -8,3 +8,4 @@ Low level Tesseract C API wrapper for versions 3.05.02, 4.1.1 and 5.0.0
 | systems | tesseract-capi |
 |---------+-------------------------------------------|
 
+ 
